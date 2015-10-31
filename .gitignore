@@ -1,0 +1,6 @@
+config.json
+design/
+node_modules/
+notes/
+
+!.keep
